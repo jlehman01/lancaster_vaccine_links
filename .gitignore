@@ -34,3 +34,6 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+vaccine_links.Rproj
+vaccine_links.Rmd
+drive_45min_lancasterpa.rds
